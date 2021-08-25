@@ -120,7 +120,9 @@ const ListGroup = () => {
                             {({ input, meta }) => (
                                 <div>
                                     <input {...input} type="text" placeholder="Nombre" />
-                                    {meta.error && meta.touched && <span>{meta.error}</span>}
+                                    <div className="flex text-red-600">
+                                        {meta.error && meta.touched && <span>{meta.error}</span>}
+                                    </div>
                                 </div>
                             )}
                         </Field>
