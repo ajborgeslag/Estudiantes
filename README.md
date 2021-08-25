@@ -12,7 +12,7 @@ FrontEnt desarollado en React Js.
 
 1 - Moverse a la carpeta front-react y abrir la consola.
 2 - Ejecutar npm install
-2 - Ejecutar npm start
+3 - Ejecutar en la consola el comando "npm start"
 
 #FrontEnt Dependecias.
 
@@ -47,7 +47,7 @@ BackEnt desarollado en NodeJs.
 
 1 - Moverse a la carpeta back-node y abrir la consola.
 2 - Ejecutar npm install
-2 - Ejecutar node server.js
+3 - Ejecutar el comando en la consola "node server.js"
 
 
 #BackEnt Dependecias.
