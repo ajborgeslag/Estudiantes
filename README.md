@@ -37,6 +37,10 @@ FrontEnt desarollado en React Js.
 "web-vitals": "^1.1.2"
 
 
+#IMPORTANTE url para acceder al sitio web-vitals
+
+http://localhost:3000/inicio
+
 #Guía de instalación de BackEnt
  
 BackEnt desarollado en NodeJs.
