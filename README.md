@@ -37,7 +37,7 @@ FrontEnt desarollado en React Js.
 "web-vitals": "^1.1.2"
 
 
-#IMPORTANTE url para acceder al sitio web-vitals
+#IMPORTANTE url para acceder al sitio web
 
 http://localhost:3000/inicio
 
